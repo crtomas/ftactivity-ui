@@ -9,7 +9,7 @@ class FTActivityDashboard extends HTMLElement {
                     color: navy;
                 }
             </style>
-            <p>FTActivity v2!</p>
+            <p>FTActivity v102!</p>
     `;
   }
 }
