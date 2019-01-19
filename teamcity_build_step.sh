@@ -20,4 +20,4 @@ echo $latest
 
 docker build -t $image -t $latest .
 docker push $image
-#docker push -f $latest
+docker push $latest
